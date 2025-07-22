@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  padding: 24px;
+  font-family: Arial, sans-serif;
+  background-color: rgba(173, 216, 230, 0.7);
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li, p {
+  font-size: 18px;
+  margin: 5px 0;
+}
+
+button {
+  width: 60px;
+  height: 30px;
+  padding: 8px;
+  border-radius: 8px;
+  border: none;
+  background-color: rgb(120, 136, 156);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+} 
+
+button:hover {
+  box-shadow: 0 0 15px 5px rgba(144, 238, 144, 0.7);
+  transform: scale(1.05);
+}

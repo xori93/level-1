@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  text-align: center;
+  background-image: url("pexels-matreding-12777252.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h1 {
+  color: white;
+}
+
+button {
+  padding: 8px;
+  border: none;
+  border-radius: 8px;
+  margin-right: 5px;
+  background-color: rgb(131, 155, 96);
+  color: aliceblue;
+}
+
+p {
+  color: aliceblue;
+}
